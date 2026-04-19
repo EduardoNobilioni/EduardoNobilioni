@@ -1,17 +1,58 @@
 # 👋 Olá, eu sou o Eduardo
 
-💻 Estudante de programação com foco em **Java** e **Go** 
-🎓 Estudante de **Engenharia de Software** (início em 2026)  
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=24&left=true&vleft=true&width=500&lines=Estudante+de+Engenharia+de+Software;Focado+em+Backend;Aprendendo+Java+e+Go;Construindo+projetos+reais" />
+</p>
 
-📚 Atualmente estudando fundamentos da linguagem Java, Go, lógica de programação e introdução à **Programação Orientada a Objetos (POO)**.  
-🛠️ Utilizo o GitHub para documentar minha evolução por meio de projetos práticos.  
+---
 
-🎯 Em busca de oportunidade de **estágio ou vaga júnior**, onde eu possa aprender, evoluir tecnicamente e contribuir com o time.
+## 💼 Sobre mim
 
-## 🚀 Tecnologias em Estudo
+🎓 Estudante de Engenharia de Software
+💻 Focado em desenvolvimento backend
+📈 Evoluindo continuamente com prática e consistência
 
-- Java
-- Go
-- Git e GitHub
-- Lógica de Programação
-- Programação Orientada a Objetos
+Buscando construir uma base sólida em programação e desenvolver projetos que resolvam problemas reais.
+
+---
+
+## 🚀 Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
+
+---
+
+## 🛠️ Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduardoNobilioni&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNobilioni&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔗 Contato
+
+<p align="left">
+  <a href="www.linkedin.com/in/eduardonobilioni">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="left">
+  ⚡ Foco em evolução contínua e construção de projetos reais
+</p>
