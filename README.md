@@ -62,7 +62,7 @@ Now I'm applying those skills to software development.
 # 🚀 Current Roadmap
 
 ```text
-JavaScript      ░░░░░░░░░░
+JavaScript      ███░░░░░░░
 
 TypeScript      ░░░░░░░░░░
 
@@ -133,8 +133,9 @@ Backend project focused on Clean Architecture.
 
 # 🎯 2026 Goals
 
-- ✅ Master JavaScript
-- ✅ Learn TypeScript
+- ✅ LearnJavaScript
+- ⏳ Learn TypeScript
+- ⏳ Learn Node.js
 - ⏳ Build REST APIs
 - ⏳ Authentication with JWT
 - ⏳ Docker
@@ -174,7 +175,7 @@ Backend project focused on Clean Architecture.
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## 👨‍💻 Terminal
 
