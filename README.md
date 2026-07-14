@@ -2,7 +2,7 @@
 
 # 👾 Eduardo Nobilioni
 
-### Backend Developer in Progress
+### ### Software Engineer Student | JavaScript Full Stack in progress
 <p align="center"> <img src="https://media.tenor.com/4L7b2jN0lXAAAAAd/pixel-city.gif" width="900"/> </p>
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=1200&color=00C8FF&center=true&vCenter=true&repeat=false&width=900&lines=PRESS+START;Software+Engineering+Student;JavaScript+Developer;TypeScript+%7C+Node.js;Always+Learning..." />
 
@@ -64,42 +64,63 @@ Now I'm applying those skills to software development.
 # 🚀 Current Roadmap
 
 ```text
-JavaScript      ███░░░░░░░
+JavaScript      ███████░░░
 
-TypeScript      ░░░░░░░░░░
+TypeScript      ███░░░░░░░
 
-Node.js         ░░░░░░░░░░
+Node.js         ███░░░░░░░
 
-Express         ░░░░░░░░░░
+Express         ██░░░░░░░░
 
-PostgreSQL      ░░░░░░░░░░
+PostgreSQL      ██░░░░░░░░
 
 Docker          ░░░░░░░░░░
 
 React           ░░░░░░░░░░
-
-AWS             ░░░░░░░░░░
 ```
 
 ---
 
-# 📂 Featured Projects
+# 📂 Projects
 
-### 📌 Authentication API
+### 🚧 Currently Building
 
-REST API using Node.js, Express and JWT.
-
----
-
-### 📌 Task Manager
-
-CRUD application using Node.js and PostgreSQL.
+Projects focused on improving my skills in JavaScript backend development.
 
 ---
 
-### 📌 Financial Control
+### 📌 Authentication API (In Progress)
 
-Backend project focused on Clean Architecture.
+REST API built with Node.js and Express.
+
+Learning concepts:
+
+- REST architecture
+- Routes and Controllers
+- Authentication
+- JWT
+- Database integration
+
+---
+
+### 📌 Task Manager API (Planned)
+
+A task management system to practice:
+
+- CRUD operations
+- PostgreSQL
+- Data modeling
+- API design
+
+---
+
+### 📌 Financial Control System (Planned)
+
+Backend project focused on:
+
+- Clean Code
+- Software architecture
+- Best practices
 
 ---
 
@@ -135,7 +156,7 @@ Backend project focused on Clean Architecture.
 
 # 🎯 2026 Goals
 
-- ✅ LearnJavaScript
+- ✅ Learn JavaScript
 - ⏳ Learn TypeScript
 - ⏳ Learn Node.js
 - ⏳ Build REST APIs
