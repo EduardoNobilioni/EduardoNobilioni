@@ -34,30 +34,31 @@
 
 # 👨‍💻 About Me
 
-I'm a **Software Engineering student** passionate about building backend applications.
+I'm a *Software Engineering student* passionate about building robust backend applications and solving complex architectural puzzles.
 
-Currently focused on learning:
+My professional background in **IT Support** equipped me with a strong foundation in:
+*   **Troubleshooting & Problem Solving:** Finding the root cause of issues quickly and efficiently.
+*   **Communication:** Translating complex technical concepts into clear, actionable ideas.
+*   **Adaptability:** Thriving in fast-paced environments and continuously learning new technologies.
 
-- JavaScript
-- TypeScript
-- Node.js
-- Express
-- PostgreSQL
-- Docker
-
-My previous experience in IT Support taught me how to solve problems, communicate effectively and always keep learning.
-
-Now I'm applying those skills to software development.
+Now, I'm channeling this analytical mindset directly into modern software development.
 
 ---
 
 # ⚔ Tech Stack
 
-<div align="center">
+### Languages & Runtime
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,postgresql,mysql,docker,git,github,vscode,linux&theme=dark"/>
+### Frameworks & Databases
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</div>
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -65,17 +66,11 @@ Now I'm applying those skills to software development.
 
 ```text
 JavaScript      ███████░░░
-
 TypeScript      ███░░░░░░░
-
 Node.js         ███░░░░░░░
-
 Express         ██░░░░░░░░
-
 PostgreSQL      ██░░░░░░░░
-
 Docker          ░░░░░░░░░░
-
 React           ░░░░░░░░░░
 ```
 
@@ -174,9 +169,8 @@ Backend project focused on:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/eduardonobilioni/" target="_blank">
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/eduardonobilioni)/>
 
 </a>
 
