@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👾 Olá, eu sou o Eduardo!
+# 👾 Eduardo Nobilioni
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=false&width=900&lines=PRESS+START;Software+Engineering+Student;JavaScript+Developer;TypeScript+%7C+Node.js;Building+Cool+Things..." />
+### Backend Developer in Progress
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=1200&color=00C8FF&center=true&vCenter=true&repeat=false&width=900&lines=PRESS+START;Software+Engineering+Student;JavaScript+Developer;TypeScript+%7C+Node.js;Always+Learning..." />
 
 <br>
 
@@ -15,143 +17,179 @@
 # 🎮 PLAYER STATUS
 
 ```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-PLAYER: Eduardo
-
-CLASS: Backend Developer
-LEVEL: Loading...
-
-❤️ HP         ██████████ 100%
-⚡ ENERGY     ██████████ 100%
-📚 XP         ███████░░░ 70%
-
-CURRENT QUEST
-▶ Become a Full Stack JavaScript Developer
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+╔══════════════════════════════════════════════╗
+║ PLAYER   :: Eduardo                          ║
+║ CLASS    :: Software Engineer                ║
+║ LEVEL    :: 01                               ║
+║ XP       :: ███████░░░                       ║
+║                                              ║
+║ CURRENT QUEST                                ║
+║   Become a Full Stack JavaScript Developer   ║
+╚══════════════════════════════════════════════╝
 ```
 
 ---
 
-# 🚀 Tech Stack
+# 👨‍💻 About Me
+
+I'm a **Software Engineering student** passionate about building backend applications.
+
+Currently focused on learning:
+
+- JavaScript
+- TypeScript
+- Node.js
+- Express
+- PostgreSQL
+- Docker
+
+My previous experience in IT Support taught me how to solve problems, communicate effectively and always keep learning.
+
+Now I'm applying those skills to software development.
+
+---
+
+# ⚔ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,postgresql,mysql,docker,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,postgresql,mysql,docker,git,github,vscode,linux&theme=dark"/>
 
 </div>
 
 ---
 
-# 📖 Atualmente estudando
-
-- ⚡ JavaScript (ES6+)
-- 🔷 TypeScript
-- 🌿 Node.js
-- 🚀 Express.js
-- 🗄️ PostgreSQL
-- 🐳 Docker
-- 🔐 JWT Authentication
-- ☁️ REST APIs
-- 🧪 Testes automatizados
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoNobilioni&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNobilioni&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=EduardoNobilioni&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EduardoNobilioni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-
-</div>
-
----
-
-# 🎯 Current Mission
+# 🚀 Current Roadmap
 
 ```text
-MAIN QUEST
+JavaScript      ░░░░░░░░░░
 
-☑ Learn JavaScript Fundamentals
-☑ Master TypeScript
-☐ Build REST APIs
-☐ Authentication (JWT)
-☐ Docker
-☐ Testing
-☐ CI/CD
-☐ Deploy Applications
-☐ First Full Stack Project
-☐ First Developer Job
+TypeScript      ░░░░░░░░░░
+
+Node.js         ░░░░░░░░░░
+
+Express         ░░░░░░░░░░
+
+PostgreSQL      ░░░░░░░░░░
+
+Docker          ░░░░░░░░░░
+
+React           ░░░░░░░░░░
+
+AWS             ░░░░░░░░░░
 ```
 
 ---
 
-# 🏆 Achievements
+# 📂 Featured Projects
 
-- 🎓 Software Engineering Student
-- 💼 IT Support Analyst
-- 🌱 Transitioning to Backend Development
-- 📚 Passionate about learning new technologies
-- 🎯 Focused on becoming a Full Stack JavaScript Developer
+### 📌 Authentication API
+
+REST API using Node.js, Express and JWT.
 
 ---
 
-# 🌎 Connect with me
+### 📌 Task Manager
+
+CRUD application using Node.js and PostgreSQL.
+
+---
+
+### 📌 Financial Control
+
+Backend project focused on Clean Architecture.
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=EduardoNobilioni&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNobilioni&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="80%" src="https://streak-stats.demolab.com?user=EduardoNobilioni&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoNobilioni&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master JavaScript
+- ✅ Learn TypeScript
+- ⏳ Build REST APIs
+- ⏳ Authentication with JWT
+- ⏳ Docker
+- ⏳ Testing
+- ⏳ CI/CD
+- ⏳ Deploy applications
+- ⏳ Build Full Stack projects
+- 🎯 Land my first developer role
+
+---
+
+# 🌎 Connect with Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/eduardonobilioni/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a href="mailto:eduardo.nobilioni@outlook.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+
 </a>
 
 </div>
 
 ---
 
-# 💭 Dev Quote
+# 💬 Quote
 
-> *"Every expert was once a beginner who refused to quit."*
+> *"Great software isn't built in one day. It's built one commit at a time."*
 
 ---
 
 <div align="center">
 
-## 👨‍💻 $ whoami
+## 👨‍💻 Terminal
 
-```text
-╭──────────────────────────────────────────────╮
-│ $ whoami                                     │
-│                                              │
-│ Eduardo                                      │
-│ Software Engineering Student                 │
-│ JavaScript • TypeScript • Node.js            │
-│ Backend Developer in Progress                │
-╰──────────────────────────────────────────────╯
+```bash
+$ whoami
+
+Eduardo
+
+Role.............Backend Developer
+Stack............JavaScript | TypeScript | Node.js
+Status...........Learning
+Location.........Brazil
+Mission..........Build awesome software 🚀
 ```
 
-⭐ **Press START to continue...**
+⭐ **Thanks for visiting! Press START to continue...**
 
 </div>
