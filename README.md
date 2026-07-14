@@ -3,7 +3,7 @@
 # 👾 Eduardo Nobilioni
 
 ### Backend Developer in Progress
-<p align="center"> <img src="https://media.tenor.com/4L7b2jN0lXAAAAAd/pixel-city.gif (https://c.tenor.com/NvVaEX2i6mEAAAAd/tenor.gif)" width="900"/> </p>
+<p align="center"> <img src="https://media.tenor.com/4L7b2jN0lXAAAAAd/pixel-city.gif" width="900"/> </p>
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=1200&color=00C8FF&center=true&vCenter=true&repeat=false&width=900&lines=PRESS+START;Software+Engineering+Student;JavaScript+Developer;TypeScript+%7C+Node.js;Always+Learning..." />
 
 <br>
