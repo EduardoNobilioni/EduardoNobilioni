@@ -1,9 +1,9 @@
-<p align="center"> <img src="https://media.tenor.com/4L7b2jN0lXAAAAAd/pixel-city.gif" width="900"/> </p>
+<div align="center">
 
 # 👾 Eduardo Nobilioni
 
 ### Backend Developer in Progress
-
+<p align="center"> <img src="https://media.tenor.com/4L7b2jN0lXAAAAAd/pixel-city.gif" width="900"/> </p>
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=1200&color=00C8FF&center=true&vCenter=true&repeat=false&width=900&lines=PRESS+START;Software+Engineering+Student;JavaScript+Developer;TypeScript+%7C+Node.js;Always+Learning..." />
 
 <br>
@@ -11,6 +11,8 @@
 ![](https://komarev.com/ghpvc/?username=EduardoNobilioni&style=for-the-badge&color=0e75b6)
 
 </div>
+
+---
 
 ---
 
