@@ -1,5 +1,4 @@
-<p align="center"> <img src="https://media.tenor.com/uT4Lk_3FqKAAAAAd/pixel.gif" width="900"/> </p>
-<div align="center">
+<p align="center"> <img src="https://media.tenor.com/4L7b2jN0lXAAAAAd/pixel-city.gif" width="900"/> </p>
 
 # 👾 Eduardo Nobilioni
 
