@@ -1,5 +1,5 @@
 <div align="center">
-
+<p align="center"> <img src="https://media.tenor.com/uT4Lk_3FqKAAAAAd/pixel.gif" width="900"/> </p>
 # 👾 Eduardo Nobilioni
 
 ### Backend Developer in Progress
