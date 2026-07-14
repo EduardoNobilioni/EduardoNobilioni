@@ -2,7 +2,11 @@
 
 # 👾 Olá, eu sou o Eduardo!
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=PRESS+START;Software+Engineering+Student;JavaScript+Developer;TypeScript+%7C+Node.js;Building+Cool+Things..." />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&repeat=false&width=900&lines=PRESS+START;Software+Engineering+Student;JavaScript+Developer;TypeScript+%7C+Node.js;Building+Cool+Things..." />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=EduardoNobilioni&style=for-the-badge&color=0e75b6)
 
 </div>
 
@@ -11,55 +15,73 @@
 # 🎮 PLAYER STATUS
 
 ```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 PLAYER: Eduardo
 
 CLASS: Backend Developer
 LEVEL: Loading...
 
-HP        ❤️ ██████████ 100%
-ENERGY    ⚡ ██████████ 100%
-XP        📚 ███████░░░ 70%
+❤️ HP         ██████████ 100%
+⚡ ENERGY     ██████████ 100%
+📚 XP         ███████░░░ 70%
 
 CURRENT QUEST
-▶ Becoming a Full Stack JavaScript Developer
+▶ Become a Full Stack JavaScript Developer
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
 # 🚀 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,postgresql,mysql,git,github,vscode,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,postgresql,mysql,docker,git,github,vscode&theme=dark"/>
 
-</p>
+</div>
 
 ---
 
 # 📖 Atualmente estudando
 
-- ⚡ JavaScript
+- ⚡ JavaScript (ES6+)
 - 🔷 TypeScript
 - 🌿 Node.js
 - 🚀 Express.js
 - 🗄️ PostgreSQL
 - 🐳 Docker
-- 🔐 Autenticação com JWT
-- ☁️ APIs REST
+- 🔐 JWT Authentication
+- ☁️ REST APIs
+- 🧪 Testes automatizados
 
 ---
 
-# 🏆 Achievements
+# 📊 GitHub Stats
 
-- 🎓 Software Engineering Student
-- 💼 IT Support Analyst
-- 🌱 Transitioning to Backend Development
-- 📚 Passionate about learning new technologies
-https://github-profile-trophy.vercel.app/?EduardoNobilioni=ryo-ma&theme=aura
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoNobilioni&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNobilioni&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=EduardoNobilioni&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=EduardoNobilioni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+
+</div>
+
 ---
 
 # 🎯 Current Mission
@@ -73,6 +95,7 @@ MAIN QUEST
 ☐ Authentication (JWT)
 ☐ Docker
 ☐ Testing
+☐ CI/CD
 ☐ Deploy Applications
 ☐ First Full Stack Project
 ☐ First Developer Job
@@ -80,47 +103,45 @@ MAIN QUEST
 
 ---
 
-# 📊 GitHub Stats
+# 🏆 Achievements
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoNobilioni&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNobilioni&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=EduardoNobilioni&theme=tokyonight&hide_border=true"/>
-
-</div>
+- 🎓 Software Engineering Student
+- 💼 IT Support Analyst
+- 🌱 Transitioning to Backend Development
+- 📚 Passionate about learning new technologies
+- 🎯 Focused on becoming a Full Stack JavaScript Developer
 
 ---
 
 # 🌎 Connect with me
 
-<p align="left">
+<div align="center">
 
-<a href="www.linkedin.com/in/eduardonobilioni">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/eduardonobilioni/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:eduardo.nobilioni@outlook.com">
-<img src="https://skillicons.dev/icons?i=outlook"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 # 💭 Dev Quote
 
-> **"Every expert was once a beginner who refused to quit."**
+> *"Every expert was once a beginner who refused to quit."*
 
 ---
 
 <div align="center">
 
-### 👾 Thanks for visiting!
+## 👨‍💻 $ whoami
 
-```
+```text
 ╭──────────────────────────────────────────────╮
 │ $ whoami                                     │
 │                                              │
