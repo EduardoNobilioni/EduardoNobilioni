@@ -59,7 +59,7 @@ CURRENT QUEST
 - 💼 IT Support Analyst
 - 🌱 Transitioning to Backend Development
 - 📚 Passionate about learning new technologies
-[[![trophy](https://github-profile-trophy.vercel.app/?username=EduardoNobilioni&theme=tokyonight&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=aura)
+https://github-profile-trophy.vercel.app/?EduardoNobilioni=ryo-ma&theme=aura
 ---
 
 # 🎯 Current Mission
