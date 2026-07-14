@@ -50,11 +50,7 @@ CURRENT QUEST
 - 🐳 Docker
 - 🔐 Autenticação com JWT
 - ☁️ APIs REST
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,postgresql,mysql,docker,git,github,vscode&perline=5"/>
-
-</p>
 ---
 
 # 🏆 Achievements
@@ -63,7 +59,7 @@ CURRENT QUEST
 - 💼 IT Support Analyst
 - 🌱 Transitioning to Backend Development
 - 📚 Passionate about learning new technologies
-[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=EduardoNobilioni&theme=tokyonight&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 # 🎯 Current Mission
@@ -88,11 +84,11 @@ MAIN QUEST
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EduardoNobilioni&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNobilioni&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=EduardoNobilioni&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -102,12 +98,12 @@ MAIN QUEST
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<a href="www.linkedin.com/in/eduardonobilioni">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:eduardo.nobilioni@outlook.com">
+<img src="https://skillicons.dev/icons?i=outlook"/>
 </a>
 
 </p>
