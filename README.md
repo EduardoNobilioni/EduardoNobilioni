@@ -119,26 +119,6 @@ Backend project focused on:
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=EduardoNobilioni&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoNobilioni&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="80%" src="https://streak-stats.demolab.com?user=EduardoNobilioni&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
