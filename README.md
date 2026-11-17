@@ -2,13 +2,13 @@
 
 # 👾 Eduardo Nobilioni
 
-### Software Engineering Student | Full Stack JavaScript in Progress
+### Suporte Técnico & NOC em formação | Redes · Monitoramento · Front-end
 
 <p align="center">
   <img src="https://media.tenor.com/4L7b2jN0lXAAAAAd/pixel-city.gif" width="900"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=1200&color=00C8FF&center=true&vCenter=true&repeat=false&width=900&lines=PRESS+START;Software+Engineering+Student;JavaScript+%7C+TypeScript+%7C+Node.js;Learning+by+Building;From+Support+to+Software+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3500&pause=1200&color=00C8FF&center=true&vCenter=true&repeat=false&width=900&lines=PRESS+START;Suporte+T%C3%A9cnico+%26+NOC+em+forma%C3%A7%C3%A3o;Redes+%7C+Mikrotik+%7C+Grafana;JavaScript+%7C+HTML+%7C+CSS;Learning+by+Building" />
 
 <br>
 
@@ -23,15 +23,17 @@
 ```text
 ╔══════════════════════════════════════════════════╗
 ║ PLAYER   :: Eduardo                              ║
-║ PATH     :: Software Engineering                 ║
+║ CLASS    :: Suporte Técnico → NOC                ║
+║ SUBCLASS :: Front-end Júnior                     ║
 ║ LEVEL    :: 01                                   ║
-║ XP       :: 600 / 1000                           ║
 ║                                                  ║
-║ CURRENT QUEST                                    ║
+║ CURRENT QUESTS                                   ║
+║   Redes, TCP/IP e Mikrotik (rumo à MTCNA)        ║
+║   Monitoramento com Grafana                      ║
 ║   JavaScript Fundamentals                        ║
 ║                                                  ║
 ║ MAIN MISSION                                     ║
-║   Become a Software Engineer                     ║
+║   Atuar em NOC e infraestrutura                  ║
 ╚══════════════════════════════════════════════════╝
 ```
 
@@ -39,46 +41,28 @@
 
 # 👨‍💻 About Me
 
-I'm a **Software Engineering student** currently building a strong foundation in software development through JavaScript and practical projects.
+Estudante de **Engenharia de Software (UNICSUL)**, trabalhando com **suporte técnico** e em capacitação para atuar em **NOC**.
 
-I currently work in **IT Support**, where troubleshooting, communication, and problem-solving are part of my daily routine. I'm bringing that experience into software development while learning how applications are designed, built, tested, and maintained.
+No dia a dia acompanho alertas e monitoramento no **Grafana**, configuro **Mikrotik** e cuido de ajustes em câmeras. Troubleshooting, comunicação e resolução de problemas fazem parte da rotina.
 
-My goal is not only to learn how to code, but to understand the engineering behind software: **architecture, backend development, databases, security, testing, and maintainable code**.
-
-I'm documenting this transition through projects, commits, and continuous learning.
+Em paralelo, desenvolvo interfaces com **JavaScript, HTML e CSS** e documento o que aprendo em público, com projetos e commits.
 
 ---
 
 # 🚀 Current Journey
 
-I'm currently following a **24-level Full Stack learning roadmap**, where each level combines theory, exercises, Git/GitHub, and a practical project.
+### 🛰️ Infra & Monitoramento
 
-### 🟢 Current Level — Level 1
+- Redes e TCP/IP
+- Mikrotik / RouterOS, com preparação para a **MTCNA**
+- Monitoramento e alertas com Grafana
+- Próximo passo: laboratório caseiro de monitoramento com Prometheus e Grafana (em construção)
 
-**JavaScript Fundamentals + Git**
+### 💻 Front-end
 
-Currently practicing:
+Seguindo um **roadmap Full Stack de 24 níveis**, hoje no **Level 1: JavaScript Fundamentals + Git**.
 
-- Variables and data types
-- Operators and logical expressions
-- Conditional structures
-- Functions
-- Parameters and arguments
-- `return`
-- Scope
-- `let` and `const`
-- Arrays and objects
-- Loops
-- Business rules
-- Git and GitHub
-
-### Current Project
-
-**Sistema de Cadastro de Clientes**
-
-A progressive JavaScript project where I'm applying each concept learned during Level 1.
-
-➡️ [View Jornada Full Stack](https://github.com/EduardoNobilioni/jornada-fullstack)
+➡️ [Jornada Full Stack](https://github.com/EduardoNobilioni/jornada-fullstack)
 
 ---
 
@@ -87,31 +71,19 @@ A progressive JavaScript project where I'm applying each concept learned during 
 ```text
 NOW
  │
+ ├── Redes & TCP/IP               🟢
+ ├── Mikrotik / RouterOS          🟢
+ ├── Grafana (alertas)            🟢
  ├── JavaScript Fundamentals      🟢
- ├── JavaScript OOP               ⏳
- ├── DOM & Browser APIs           ⏳
- ├── Async JavaScript & APIs      ⏳
  │
- ├── Node.js                      ⏳
- ├── Express                      ⏳
- ├── REST APIs                    ⏳
+ ├── Linux                        ⏳
+ ├── Prometheus + Grafana (lab)   ⏳
+ ├── Certificação MTCNA           🎯
  │
- ├── PostgreSQL & SQL             ⏳
- ├── Authentication & Security    ⏳
- │
- ├── TypeScript                   ⏳
- │
- ├── React + TypeScript           ⏳
- │
- ├── Testing                      ⏳
- ├── Docker & Deploy              ⏳
- │
+ ├── DOM & Async JavaScript       ⏳
+ ├── Node.js & REST APIs          ⏳
  └── Full Stack Project           🎯
 ```
-
-Along the way, I'm also studying concepts that go beyond individual technologies:
-
-`Software Architecture` • `Clean Code` • `SOLID` • `Security` • `Testing` • `Git` • `HTTP` • `REST` • `Database Modeling`
 
 ---
 
@@ -119,61 +91,47 @@ Along the way, I'm also studying concepts that go beyond individual technologies
 
 ### Currently Working With
 
+![Mikrotik](https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### On My Roadmap
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-# 📂 Featured Project
+# 📂 Featured Projects
+
+## 🧭 Rumo — Guia de Estudos Interativo
+
+Guia com **19 trilhas**, plano semanal, importação da grade da faculdade e testes automatizados com `node:test`.
+
+➡️ [Demo](https://eduardonobilioni.github.io/rumo-guia-de-estudos/) · [Repositório](https://github.com/EduardoNobilioni/rumo-guia-de-estudos)
+
+## 🗂️ Portfólio
+
+Site pessoal em HTML, CSS e JavaScript.
+
+➡️ [Demo](https://eduardonobilioni.github.io/eduardo-nobilioni-portfolio/) · [Repositório](https://github.com/EduardoNobilioni/eduardo-nobilioni-portfolio)
 
 ## 🚀 Jornada Full Stack — Do Zero ao Mercado
 
-My main learning repository.
-
-The project documents my progression from JavaScript fundamentals toward full stack development and software engineering concepts.
-
-Each level introduces new concepts and applies them through practical projects.
-
-**Current progress:**
+Meu repositório de estudos, nível a nível.
 
 ```text
 Level 01 / 24
-XP: 600 / 1000
-
 JavaScript Fundamentals ████████████░░░░░░░░
 ```
 
 ➡️ [Explore the repository](https://github.com/EduardoNobilioni/jornada-fullstack)
-
----
-
-# 🎯 What I'm Building Toward
-
-My learning path progressively covers:
-
-- JavaScript and TypeScript
-- Backend development with Node.js
-- REST APIs
-- PostgreSQL and database modeling
-- Authentication and application security
-- Software architecture
-- React and frontend development
-- Automated testing
-- Docker
-- Deployment
-- Full Stack applications
-
-The goal is to build the skills required to contribute to real software projects as a **Software Engineer**.
 
 ---
 
@@ -214,11 +172,11 @@ $ whoami
 
 Eduardo Nobilioni
 
-Role.............Software Engineering Student
-Background.......IT Support
-Current Level....JavaScript Fundamentals
-Path.............Full Stack JavaScript
-Mission..........Become a Software Engineer
+Role.............Suporte Técnico | NOC em formação
+Studying.........Engenharia de Software (UNICSUL)
+Network..........TCP/IP, Mikrotik, Grafana
+Frontend.........JavaScript, HTML, CSS
+Next Quest.......MTCNA + Linux + Prometheus
 Status...........Learning by building
 ```
 
